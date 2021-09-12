@@ -1256,7 +1256,7 @@ RectTransform:
   m_GameObject: {fileID: 1606905606}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 588902813}
   - {fileID: 468417369}
@@ -1266,7 +1266,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.6, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -200, y: 138.7}
+  m_SizeDelta: {x: -200, y: 115.89}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1606905608
 MonoBehaviour:
@@ -1284,15 +1284,15 @@ MonoBehaviour:
   _popUpText: {fileID: 468417370}
   _popUpShowDuration: 3
   _achievementList:
-  - Title: Unlock Intern
+  - Title: Pegawai Magang
     Type: 0
-    Value: Intern
+    Value: Pegawai Magang
     IsUnlocked: 0
-  - Title: Unlock Developer
+  - Title: Pegawai Tetap
     Type: 0
-    Value: Developer
+    Value: Pegawai Tetap
     IsUnlocked: 0
-  - Title: Unlock Manager
+  - Title: Manager
     Type: 0
     Value: Manager
     IsUnlocked: 0
